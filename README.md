@@ -5,7 +5,7 @@ build-lists: true
 [.slidenumbers: false] 
 [.hide-footer]
 
-![](images/node-toolchain.png)
+![](images/Node-Toolchain-for-Newbies.png)
 
 ---
 
@@ -109,7 +109,7 @@ The libraries are listed with the npm names, so you can execute `npm i {name}` s
 
 # socket.io
 
-[socketio.io](https://socket.io): Real-time library with support of Web Sockets and others.
+[socket.io](https://socket.io): Real-time library with support of Web Sockets and others.
 
 ---
 
